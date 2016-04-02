@@ -1,0 +1,31 @@
+
+#playBut
+{
+
+background:url(../images/musicicon.png);
+height:60px;
+}
+button
+{
+}
+.trkSelect ul 
+
+{ list-style: none;
+	
+	}
+.musicbg
+{
+	
+	margin-top:50px;
+background-color:#CCCCCC;
+}
+.music
+{padding-top:50px;
+}
+.trkSelect ul li a
+{ width:20px;
+  height:30px;
+  color:#fff;
+	background-color:red;
+	margin-bottom: 20px;
+	text-align:center;}
